@@ -86,4 +86,3 @@ alert(x > y); // This will alert true because 10 is greater than 5.
 let age = 17; // You can change this value to test different ages
 
 alert(age < 18 ? "Too young" : "Old enough");
-
